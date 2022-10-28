@@ -1,0 +1,12 @@
+{
+  "name": "Inspirational Quote",
+  "version": "1.0.0",
+  "description": "Press the button for a random inspirational quote!",
+  "manifest_version": 3,
+  // "default_locale": "en",
+  "authors": "Eric Yun and Timmy Lem",
+  "action":{
+      "default_popup": "popup.html"
+  },
+  "permissions": []
+}
